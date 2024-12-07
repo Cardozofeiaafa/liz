@@ -1,5 +1,3 @@
-import from 'react';
-
 interface YouTubeEmbedProps {
   videoId: string;
 }
