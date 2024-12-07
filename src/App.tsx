@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { CountdownTimer } from './components/CountdownTimer';
 import { BirthdayPage } from './components/BirthdayPage';
 
