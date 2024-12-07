@@ -1,4 +1,3 @@
-import from 'react';
 import { TextReveal } from './TextReveal';
 import { BackgroundMusic } from './BackgroundMusic';
 import { Heart } from 'lucide-react';
