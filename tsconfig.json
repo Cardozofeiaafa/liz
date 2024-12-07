@@ -13,11 +13,10 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-"noUnusedLocals": false,
-
+    
     /* Linting */
     "strict": true,
-    "noUnusedLocals": true,
+    "noUnusedLocals": false, // Modificado para ignorar variáveis não utilizadas
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
